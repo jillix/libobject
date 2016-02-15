@@ -1,0 +1,2 @@
+# libobject
+Object utility library
