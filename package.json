@@ -4,7 +4,7 @@
   "description": "Object utility library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test/*.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jillix/libobject/issues"
   },
-  "homepage": "https://github.com/jillix/libobject#readme"
+  "homepage": "https://github.com/jillix/libobject#readme",
+  "devDependencies": {
+    "tap": "^5.6.0"
+  }
 }
