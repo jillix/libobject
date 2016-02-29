@@ -4,7 +4,7 @@
   "description": "Object utility library",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tap --cov test/*.js"
   },
   "repository": {
     "type": "git",
