@@ -1,3 +1,4 @@
+require('setimmediate');
 exports.isObject = require('./lib/isObject');
 exports.change = require('./lib/change');
 exports.path = require('./lib/path');

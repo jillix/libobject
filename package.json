@@ -22,5 +22,8 @@
   "homepage": "https://github.com/jillix/libobject#readme",
   "devDependencies": {
     "tap": "^5.6.0"
+  },
+  "dependencies": {
+    "setimmediate": "^1.0.5"
   }
 }
